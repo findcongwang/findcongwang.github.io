@@ -4,7 +4,7 @@ port: 4000
 name: ""
 description: ""
 
-url: "http://192.168.33.10:4000"
+url: "https://findcongwang.github.io"
 
 paginate: 4
 paginate_path: "page:num"
