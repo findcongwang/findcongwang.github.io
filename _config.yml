@@ -1,0 +1,34 @@
+host: 0.0.0.0
+port: 4000
+
+name: ""
+description: ""
+
+url: "http://192.168.33.10:4000"
+
+paginate: 4
+paginate_path: "page:num"
+
+markdown: rdiscount
+permalink: pretty
+highligher: null
+
+gems: [jekyll-paginate]
+
+# Youtube
+youtube_channel: CongWang-findcongwang
+youtube_count_endpoint:
+
+# LinkedIn
+linkedin_page: findcongwang
+linkedin_apikey: 78oj9n4xzq8b1o
+linkedin_count_endpoint:
+
+# Facebook
+facebook_page: findcongwang
+facebook_count_endpoint:
+
+# Twitter
+twitter_user: findcongwang
+twitter_tweet_button: true
+twitter_count_endpoint:
