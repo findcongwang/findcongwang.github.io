@@ -9,7 +9,7 @@ url: "https://findcongwang.github.io"
 paginate: 4
 paginate_path: "page:num"
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
 highligher: null
 
