@@ -1,32 +1,24 @@
 ---
 layout: default
-title: azee - Minimal Blog theme for Jekyll
+title: F.C. Wang's Blog
 ---
 
-
 <div class="blog-posts">
-
   <div class="container">
     {% for post in paginator.posts %}
     <div class="post-item">
       <div class="post-header">
          {% case post.layout %}
-
           {% when 'post_simple' %}
             {% include simple_post_header.html %}
-
           {% when 'post_image' %}
             {% include image_post_header.html %}
-
           {% when 'post_video' %}
             {% include video_post_header.html %}
-
           {% when 'post_audio' %}
             {% include audio_post_header.html %}
-
           {% else %}
             {% include simple_post_header.html %}
-
          {% endcase %}
       </div>
       <div class="post-body">
