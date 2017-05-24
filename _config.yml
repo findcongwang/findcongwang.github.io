@@ -13,7 +13,12 @@ markdown: kramdown
 permalink: pretty
 highligher: null
 
+future: true
 gems: [jekyll-paginate]
+
+# Disqus
+disqus_short_name: findcongwang
+disqus_show_comment_count: true
 
 # Youtube
 youtube_channel: CongWang-findcongwang
@@ -32,3 +37,6 @@ facebook_count_endpoint:
 twitter_user: findcongwang
 twitter_tweet_button: true
 twitter_count_endpoint:
+
+# Google Analytics
+google_analytics_tracking_id: UA-99867423-1

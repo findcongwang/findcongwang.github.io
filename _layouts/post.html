@@ -29,6 +29,15 @@ layout: default
         <li><a href="https://twitter.com/intent/tweet?original_referer={{site.url}}{{page.url}}&text={{page.title}}&url={{site.url}}{{page.url}}" target="_blank"><i class="fa fa-twitter"></i></a></li>
         <li><a href="https://plus.google.com/share?url={{site.url}}{{page.url}}" target="_blank"><i class="fa fa-google-plus"></i></a></li>
       </ul>
+      {% if site.disqus_short_name and page.comments == true %}
+      <div class="row">
+        <div class ="col-xs-12">
+          <h1>Comments</h1>
+          {% include disqus.html %}
+          <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+        </div>
+      </div>
+      {% endif %}
     </div>
   </div>
   <div id="blog-pagination">
