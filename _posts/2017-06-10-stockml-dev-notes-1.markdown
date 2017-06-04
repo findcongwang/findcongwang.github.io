@@ -1,7 +1,7 @@
 ---
 layout: post_simple
 title:  "StockML Dev Notes #1"
-date:   2017-05-25
+date:   2017-06-10
 published: false
 comments: true
 author: Cong Wang
@@ -14,8 +14,6 @@ tags:
 - Trading
 
 ---
-
-### **Doing stocks out of nowhere**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
 
