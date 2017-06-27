@@ -1,7 +1,7 @@
 ---
 layout: post_simple
 title:  "StockML Dev Notes #2"
-date:   2017-06-10
+date:   2017-07-01
 published: false
 comments: true
 author: Cong Wang
@@ -14,12 +14,6 @@ tags:
 - Trading
 
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
-
-**Mistake: trying to tackle HFT (high-frequency trading)**
-
-**Mistake: trying to jump right in and "just apply machine learning"**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
 
