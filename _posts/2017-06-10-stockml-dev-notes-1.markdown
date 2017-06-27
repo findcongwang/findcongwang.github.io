@@ -10,7 +10,6 @@ type: "Article"
 
 tags:
 - Stock
-- Options
 - Trading
 
 ---
