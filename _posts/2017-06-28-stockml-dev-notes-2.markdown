@@ -1,6 +1,6 @@
 ---
 layout: post_simple
-title:  "StockML Dev Notes #2"
+title:  "StockML Dev Notes #2 - Learning The Ropes"
 date:   2017-06-28
 published: true
 comments: true
